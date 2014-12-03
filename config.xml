@@ -6,10 +6,10 @@
         id        = "com.phonegap.MyNtutNewApp_102AC2008"
         version   = "1.0.0">
 
-    <name>102AC2008</name>
+    <name>shake shaking</name>
 
     <description>
-        102AC2008 sample application that responds to the deviceready event.
+        shake shaking sample application that responds to the deviceready event.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
